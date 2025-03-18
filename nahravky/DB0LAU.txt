@@ -1,0 +1,4 @@
+sem dat url na DB0LAU vyhledat na netu a pridat
+
+treb ulozit html do PDF-ka taky moznost ???
+
